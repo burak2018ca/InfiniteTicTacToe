@@ -1,9 +1,12 @@
 # Infinite Tic Tac Toe
 
-you can mark desired tile by clicking on it 
+Here is the UI of my game
+![Alt text](Documentation/Pics/pic.png)
+
+You can mark desired tile by clicking on it 
 ![Demo](Documentation/GIF/PlacingTile.gif)
 
-when ever you reach to 3 adjacent side by side placement you win the round thus increasing your score
+When ever you reach to 3 adjacent side by side placement you win the round thus increasing your score
 ![Demo](Documentation/GIF/RoundGame.gif)
 
 Which ever players wins 3 rounds first wins the game 
