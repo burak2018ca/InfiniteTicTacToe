@@ -130,7 +130,15 @@ function resetBoard() {
             </button>
         )}
         </div>
-       
+        <a
+        href="https://github.com/burak2018ca/InfiniteTicTacToe"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="fixed bottom-4 right-4 bg-gradient-to-br from-purple-900 via-indigo-800 to-purple-700 text-white px-4 py-2 rounded-xl shadow-lg hover:brightness-110 transition z-50"
+        >
+        Source Code
+        </a>
+            
     </div>
   )
 }
