@@ -5,6 +5,6 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   base: '/InfiniteTicTacToe/',
   plugins: [react(), tailwindcss()],
-  server : {port: 5000}
+  // server : {port: 5000}
 })
 
