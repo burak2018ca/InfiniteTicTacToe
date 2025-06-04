@@ -27,7 +27,7 @@ Once a player gets 3 adjacent marks, they win the round and their score increase
 ---
 
 ### 🏁 First to 3 Rounds Wins the Game
-The game resets when someone reaches 3 rounds — best of 5 format:
+The game resets when someone reaches 3 rounds — best of 3 format:
 ![Winning Game](Documentation/GIF/Win_Game.mov.gif)
 
 ---
